@@ -59,4 +59,3 @@ while
 with
 yield
 
-Can you add a few lines of code that would check if the string input is on the list of reserved keywords? Send me a DM in discord if you are curious and I'll show you how I'd add that functionality!
